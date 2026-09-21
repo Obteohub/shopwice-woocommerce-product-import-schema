@@ -1,10 +1,10 @@
 # WooCommerce Product Import Schema
 
-An open, folder-based specification for preparing and validating ecommerce product data before importing it into WooCommerce.
+An open, folder-based specification for preparing and validating e-commerce product data before importing it into WooCommerce.
 
 This repository provides a practical structure for **simple products**, **variable products**, **attributes**, **variations**, **brands**, **product collections**, **product lines**, **product locations**, **descriptions**, **images**, and **category validation**.
 
-The specification was developed from catalog infrastructure work at [Shopwice](https://shopwice.com/), an ecommerce marketplace in Ghana.
+This specification was developed as part of the Shopwice product import infrastructure. The import platform is available at import.shopwice.com.
 
 ## Why this project exists
 
