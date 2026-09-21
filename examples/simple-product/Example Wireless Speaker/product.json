@@ -1,0 +1,13 @@
+{
+  "productType": "simple",
+  "name": "Example Wireless Speaker",
+  "sku": "EXAMPLE-SPK-001",
+  "category": "Electronics > Audio > Bluetooth Speakers",
+  "status": "draft",
+  "regularPrice": null,
+  "salePrice": null,
+  "stockStatus": "instock",
+  "manageStock": false,
+  "stockQuantity": null,
+  "weight": null
+}

@@ -1,0 +1,70 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.org/schemas/variations.schema.json",
+  "title": "WooCommerce Import Variations",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "variations"
+  ],
+  "properties": {
+    "variations": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "attributes",
+          "sku"
+        ],
+        "properties": {
+          "attributes": {
+            "type": "object",
+            "minProperties": 1,
+            "additionalProperties": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "sku": {
+            "type": "string",
+            "minLength": 1
+          },
+          "regularPrice": {
+            "type": [
+              "string",
+              "number",
+              "null"
+            ]
+          },
+          "salePrice": {
+            "type": [
+              "string",
+              "number",
+              "null"
+            ]
+          },
+          "stockStatus": {
+            "type": "string",
+            "enum": [
+              "instock",
+              "outofstock",
+              "onbackorder"
+            ]
+          },
+          "manageStock": {
+            "type": "boolean"
+          },
+          "stockQuantity": {
+            "type": [
+              "integer",
+              "null"
+            ],
+            "minimum": 0
+          }
+        }
+      }
+    }
+  }
+}

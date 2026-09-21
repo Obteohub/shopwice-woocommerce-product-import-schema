@@ -1,0 +1,11 @@
+## Overview
+
+Example Smartphone is a fictional product used to demonstrate variable-product imports.
+
+## Variations
+
+The sample varies by storage and colour. Network is included as a visible non-variation attribute.
+
+## Important
+
+This product is for schema demonstration only and should not be treated as a real retail listing.

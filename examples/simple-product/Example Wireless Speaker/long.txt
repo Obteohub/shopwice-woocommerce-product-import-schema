@@ -1,0 +1,15 @@
+## Overview
+
+Example Wireless Speaker is a sample product used to demonstrate the folder-based import specification. It is not a real commercial product listing.
+
+## Key details
+
+- Product type: Simple
+- Connectivity: Bluetooth
+- Colour: Black
+
+## In the box
+
+- Example Wireless Speaker
+- Charging cable
+- Quick-start guide

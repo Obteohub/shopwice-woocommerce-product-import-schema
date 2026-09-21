@@ -1,0 +1,22 @@
+{
+  "attributes": [
+    {
+      "name": "Storage",
+      "visible": true,
+      "variation": true,
+      "values": ["128GB", "256GB"]
+    },
+    {
+      "name": "Colour",
+      "visible": true,
+      "variation": true,
+      "values": ["Black", "Blue"]
+    },
+    {
+      "name": "Network",
+      "visible": true,
+      "variation": false,
+      "values": ["5G"]
+    }
+  ]
+}

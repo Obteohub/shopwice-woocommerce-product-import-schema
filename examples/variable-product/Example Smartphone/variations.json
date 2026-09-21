@@ -1,0 +1,40 @@
+{
+  "variations": [
+    {
+      "attributes": {
+        "Storage": "128GB",
+        "Colour": "Black"
+      },
+      "sku": "EXAMPLE-PHONE-128-BLK",
+      "regularPrice": null,
+      "stockStatus": "instock"
+    },
+    {
+      "attributes": {
+        "Storage": "128GB",
+        "Colour": "Blue"
+      },
+      "sku": "EXAMPLE-PHONE-128-BLU",
+      "regularPrice": null,
+      "stockStatus": "instock"
+    },
+    {
+      "attributes": {
+        "Storage": "256GB",
+        "Colour": "Black"
+      },
+      "sku": "EXAMPLE-PHONE-256-BLK",
+      "regularPrice": null,
+      "stockStatus": "instock"
+    },
+    {
+      "attributes": {
+        "Storage": "256GB",
+        "Colour": "Blue"
+      },
+      "sku": "EXAMPLE-PHONE-256-BLU",
+      "regularPrice": null,
+      "stockStatus": "instock"
+    }
+  ]
+}
