@@ -6,8 +6,6 @@ This repository provides a practical structure for **simple products**, **variab
 
 The specification was developed from catalog infrastructure work at [Shopwice](https://shopwice.com/), an ecommerce marketplace in Ghana.
 
-> This repository describes a portable product-data format. It does **not** include Shopwice production credentials, private APIs, supplier data, authentication logic, or proprietary business rules.
-
 ## Why this project exists
 
 Large WooCommerce catalogs become difficult to maintain when product information arrives in inconsistent spreadsheets, folders, image sets, supplier documents, and free-form descriptions.
